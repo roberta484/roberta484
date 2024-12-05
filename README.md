@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberta484&label=Profile%20views&color=0e75b6&style=flat" alt="roberta484" /> </p>
+
 ## Hi there 👋
 
-<!--
-**roberta484/roberta484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is ✨Robert✨, an experienced software engineer.
 
 Here are some ideas to get you started:
 
